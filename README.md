@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Hey there, apparently people are still using this Gist from 2013! It's out of date! Consult the [Github docs](https://pages.github.com/).**
 
 ## Steps for Hosting a Website on GitHub
@@ -25,3 +26,6 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 
 [1]:  http://mac.github.com/
 [2]:	http://windows.github.com/
+=======
+# mekbuk.github.io
+>>>>>>> 8f142db57d2248259de25d506730df9cad958f6f
